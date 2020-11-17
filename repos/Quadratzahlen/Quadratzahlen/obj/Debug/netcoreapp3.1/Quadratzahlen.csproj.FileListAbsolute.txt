@@ -1,0 +1,12 @@
+C:\Users\vincent\source\repos\Quadratzahlen\Quadratzahlen\bin\Debug\netcoreapp3.1\Quadratzahlen.exe
+C:\Users\vincent\source\repos\Quadratzahlen\Quadratzahlen\bin\Debug\netcoreapp3.1\Quadratzahlen.deps.json
+C:\Users\vincent\source\repos\Quadratzahlen\Quadratzahlen\bin\Debug\netcoreapp3.1\Quadratzahlen.runtimeconfig.json
+C:\Users\vincent\source\repos\Quadratzahlen\Quadratzahlen\bin\Debug\netcoreapp3.1\Quadratzahlen.runtimeconfig.dev.json
+C:\Users\vincent\source\repos\Quadratzahlen\Quadratzahlen\bin\Debug\netcoreapp3.1\Quadratzahlen.dll
+C:\Users\vincent\source\repos\Quadratzahlen\Quadratzahlen\bin\Debug\netcoreapp3.1\Quadratzahlen.pdb
+C:\Users\vincent\source\repos\Quadratzahlen\Quadratzahlen\obj\Debug\netcoreapp3.1\Quadratzahlen.AssemblyInfoInputs.cache
+C:\Users\vincent\source\repos\Quadratzahlen\Quadratzahlen\obj\Debug\netcoreapp3.1\Quadratzahlen.AssemblyInfo.cs
+C:\Users\vincent\source\repos\Quadratzahlen\Quadratzahlen\obj\Debug\netcoreapp3.1\Quadratzahlen.csproj.CoreCompileInputs.cache
+C:\Users\vincent\source\repos\Quadratzahlen\Quadratzahlen\obj\Debug\netcoreapp3.1\Quadratzahlen.dll
+C:\Users\vincent\source\repos\Quadratzahlen\Quadratzahlen\obj\Debug\netcoreapp3.1\Quadratzahlen.pdb
+C:\Users\vincent\source\repos\Quadratzahlen\Quadratzahlen\obj\Debug\netcoreapp3.1\Quadratzahlen.genruntimeconfig.cache

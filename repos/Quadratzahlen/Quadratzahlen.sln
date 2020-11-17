@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadratzahlen", "Quadratzahlen\Quadratzahlen.csproj", "{28BF013F-667D-416B-A8BA-D86C57B9F4B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28BF013F-667D-416B-A8BA-D86C57B9F4B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28BF013F-667D-416B-A8BA-D86C57B9F4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28BF013F-667D-416B-A8BA-D86C57B9F4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28BF013F-667D-416B-A8BA-D86C57B9F4B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CADE8885-8A10-4F51-AE54-BB88BCC7BC6A}
+	EndGlobalSection
+EndGlobal

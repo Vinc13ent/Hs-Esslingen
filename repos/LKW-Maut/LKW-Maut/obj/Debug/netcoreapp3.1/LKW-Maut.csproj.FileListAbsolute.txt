@@ -1,0 +1,13 @@
+C:\Users\vincent\source\repos\LKW-Maut\LKW-Maut\bin\Debug\netcoreapp3.1\LKW-Maut.exe
+C:\Users\vincent\source\repos\LKW-Maut\LKW-Maut\bin\Debug\netcoreapp3.1\LKW-Maut.deps.json
+C:\Users\vincent\source\repos\LKW-Maut\LKW-Maut\bin\Debug\netcoreapp3.1\LKW-Maut.runtimeconfig.json
+C:\Users\vincent\source\repos\LKW-Maut\LKW-Maut\bin\Debug\netcoreapp3.1\LKW-Maut.runtimeconfig.dev.json
+C:\Users\vincent\source\repos\LKW-Maut\LKW-Maut\bin\Debug\netcoreapp3.1\LKW-Maut.dll
+C:\Users\vincent\source\repos\LKW-Maut\LKW-Maut\bin\Debug\netcoreapp3.1\LKW-Maut.pdb
+C:\Users\vincent\source\repos\LKW-Maut\LKW-Maut\obj\Debug\netcoreapp3.1\LKW-Maut.csprojAssemblyReference.cache
+C:\Users\vincent\source\repos\LKW-Maut\LKW-Maut\obj\Debug\netcoreapp3.1\LKW-Maut.AssemblyInfoInputs.cache
+C:\Users\vincent\source\repos\LKW-Maut\LKW-Maut\obj\Debug\netcoreapp3.1\LKW-Maut.AssemblyInfo.cs
+C:\Users\vincent\source\repos\LKW-Maut\LKW-Maut\obj\Debug\netcoreapp3.1\LKW-Maut.csproj.CoreCompileInputs.cache
+C:\Users\vincent\source\repos\LKW-Maut\LKW-Maut\obj\Debug\netcoreapp3.1\LKW-Maut.dll
+C:\Users\vincent\source\repos\LKW-Maut\LKW-Maut\obj\Debug\netcoreapp3.1\LKW-Maut.pdb
+C:\Users\vincent\source\repos\LKW-Maut\LKW-Maut\obj\Debug\netcoreapp3.1\LKW-Maut.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\vincent\source\repos\Übungsaufgabe_Vorlesung\Übungsaufgabe_Vorlesung\bin\Debug\netcoreapp3.1\Übungsaufgabe_Vorlesung.exe
+C:\Users\vincent\source\repos\Übungsaufgabe_Vorlesung\Übungsaufgabe_Vorlesung\bin\Debug\netcoreapp3.1\Übungsaufgabe_Vorlesung.deps.json
+C:\Users\vincent\source\repos\Übungsaufgabe_Vorlesung\Übungsaufgabe_Vorlesung\bin\Debug\netcoreapp3.1\Übungsaufgabe_Vorlesung.runtimeconfig.json
+C:\Users\vincent\source\repos\Übungsaufgabe_Vorlesung\Übungsaufgabe_Vorlesung\bin\Debug\netcoreapp3.1\Übungsaufgabe_Vorlesung.runtimeconfig.dev.json
+C:\Users\vincent\source\repos\Übungsaufgabe_Vorlesung\Übungsaufgabe_Vorlesung\bin\Debug\netcoreapp3.1\Übungsaufgabe_Vorlesung.dll
+C:\Users\vincent\source\repos\Übungsaufgabe_Vorlesung\Übungsaufgabe_Vorlesung\bin\Debug\netcoreapp3.1\Übungsaufgabe_Vorlesung.pdb
+C:\Users\vincent\source\repos\Übungsaufgabe_Vorlesung\Übungsaufgabe_Vorlesung\obj\Debug\netcoreapp3.1\Übungsaufgabe_Vorlesung.csprojAssemblyReference.cache
+C:\Users\vincent\source\repos\Übungsaufgabe_Vorlesung\Übungsaufgabe_Vorlesung\obj\Debug\netcoreapp3.1\Übungsaufgabe_Vorlesung.AssemblyInfoInputs.cache
+C:\Users\vincent\source\repos\Übungsaufgabe_Vorlesung\Übungsaufgabe_Vorlesung\obj\Debug\netcoreapp3.1\Übungsaufgabe_Vorlesung.AssemblyInfo.cs
+C:\Users\vincent\source\repos\Übungsaufgabe_Vorlesung\Übungsaufgabe_Vorlesung\obj\Debug\netcoreapp3.1\Übungsaufgabe_Vorlesung.csproj.CoreCompileInputs.cache
+C:\Users\vincent\source\repos\Übungsaufgabe_Vorlesung\Übungsaufgabe_Vorlesung\obj\Debug\netcoreapp3.1\Übungsaufgabe_Vorlesung.dll
+C:\Users\vincent\source\repos\Übungsaufgabe_Vorlesung\Übungsaufgabe_Vorlesung\obj\Debug\netcoreapp3.1\Übungsaufgabe_Vorlesung.pdb
+C:\Users\vincent\source\repos\Übungsaufgabe_Vorlesung\Übungsaufgabe_Vorlesung\obj\Debug\netcoreapp3.1\Übungsaufgabe_Vorlesung.genruntimeconfig.cache

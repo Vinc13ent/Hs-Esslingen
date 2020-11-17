@@ -1,0 +1,12 @@
+C:\Users\vincent\source\repos\MaximumVonDreiZahlen\MaximumVonDreiZahlen\bin\Debug\netcoreapp3.1\MaximumVonDreiZahlen.exe
+C:\Users\vincent\source\repos\MaximumVonDreiZahlen\MaximumVonDreiZahlen\bin\Debug\netcoreapp3.1\MaximumVonDreiZahlen.deps.json
+C:\Users\vincent\source\repos\MaximumVonDreiZahlen\MaximumVonDreiZahlen\bin\Debug\netcoreapp3.1\MaximumVonDreiZahlen.runtimeconfig.json
+C:\Users\vincent\source\repos\MaximumVonDreiZahlen\MaximumVonDreiZahlen\bin\Debug\netcoreapp3.1\MaximumVonDreiZahlen.runtimeconfig.dev.json
+C:\Users\vincent\source\repos\MaximumVonDreiZahlen\MaximumVonDreiZahlen\bin\Debug\netcoreapp3.1\MaximumVonDreiZahlen.dll
+C:\Users\vincent\source\repos\MaximumVonDreiZahlen\MaximumVonDreiZahlen\bin\Debug\netcoreapp3.1\MaximumVonDreiZahlen.pdb
+C:\Users\vincent\source\repos\MaximumVonDreiZahlen\MaximumVonDreiZahlen\obj\Debug\netcoreapp3.1\MaximumVonDreiZahlen.AssemblyInfoInputs.cache
+C:\Users\vincent\source\repos\MaximumVonDreiZahlen\MaximumVonDreiZahlen\obj\Debug\netcoreapp3.1\MaximumVonDreiZahlen.AssemblyInfo.cs
+C:\Users\vincent\source\repos\MaximumVonDreiZahlen\MaximumVonDreiZahlen\obj\Debug\netcoreapp3.1\MaximumVonDreiZahlen.csproj.CoreCompileInputs.cache
+C:\Users\vincent\source\repos\MaximumVonDreiZahlen\MaximumVonDreiZahlen\obj\Debug\netcoreapp3.1\MaximumVonDreiZahlen.dll
+C:\Users\vincent\source\repos\MaximumVonDreiZahlen\MaximumVonDreiZahlen\obj\Debug\netcoreapp3.1\MaximumVonDreiZahlen.pdb
+C:\Users\vincent\source\repos\MaximumVonDreiZahlen\MaximumVonDreiZahlen\obj\Debug\netcoreapp3.1\MaximumVonDreiZahlen.genruntimeconfig.cache

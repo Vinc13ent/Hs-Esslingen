@@ -1,0 +1,12 @@
+C:\Users\vincent\source\repos\Würfeln\Würfeln\obj\Debug\netcoreapp3.1\Würfeln.AssemblyInfoInputs.cache
+C:\Users\vincent\source\repos\Würfeln\Würfeln\obj\Debug\netcoreapp3.1\Würfeln.AssemblyInfo.cs
+C:\Users\vincent\source\repos\Würfeln\Würfeln\obj\Debug\netcoreapp3.1\Würfeln.csproj.CoreCompileInputs.cache
+C:\Users\vincent\source\repos\Würfeln\Würfeln\bin\Debug\netcoreapp3.1\Würfeln.exe
+C:\Users\vincent\source\repos\Würfeln\Würfeln\bin\Debug\netcoreapp3.1\Würfeln.deps.json
+C:\Users\vincent\source\repos\Würfeln\Würfeln\bin\Debug\netcoreapp3.1\Würfeln.runtimeconfig.json
+C:\Users\vincent\source\repos\Würfeln\Würfeln\bin\Debug\netcoreapp3.1\Würfeln.runtimeconfig.dev.json
+C:\Users\vincent\source\repos\Würfeln\Würfeln\bin\Debug\netcoreapp3.1\Würfeln.dll
+C:\Users\vincent\source\repos\Würfeln\Würfeln\bin\Debug\netcoreapp3.1\Würfeln.pdb
+C:\Users\vincent\source\repos\Würfeln\Würfeln\obj\Debug\netcoreapp3.1\Würfeln.dll
+C:\Users\vincent\source\repos\Würfeln\Würfeln\obj\Debug\netcoreapp3.1\Würfeln.pdb
+C:\Users\vincent\source\repos\Würfeln\Würfeln\obj\Debug\netcoreapp3.1\Würfeln.genruntimeconfig.cache

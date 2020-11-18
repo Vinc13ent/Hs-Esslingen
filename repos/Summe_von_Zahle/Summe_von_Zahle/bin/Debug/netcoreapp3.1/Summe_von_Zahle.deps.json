@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Summe_von_Zahle/1.0.0": {
+        "runtime": {
+          "Summe_von_Zahle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Summe_von_Zahle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

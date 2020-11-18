@@ -1,0 +1,12 @@
+C:\Users\vincent\source\repos\Eimer\Eimer\bin\Debug\netcoreapp3.1\Eimer.exe
+C:\Users\vincent\source\repos\Eimer\Eimer\bin\Debug\netcoreapp3.1\Eimer.deps.json
+C:\Users\vincent\source\repos\Eimer\Eimer\bin\Debug\netcoreapp3.1\Eimer.runtimeconfig.json
+C:\Users\vincent\source\repos\Eimer\Eimer\bin\Debug\netcoreapp3.1\Eimer.runtimeconfig.dev.json
+C:\Users\vincent\source\repos\Eimer\Eimer\bin\Debug\netcoreapp3.1\Eimer.dll
+C:\Users\vincent\source\repos\Eimer\Eimer\bin\Debug\netcoreapp3.1\Eimer.pdb
+C:\Users\vincent\source\repos\Eimer\Eimer\obj\Debug\netcoreapp3.1\Eimer.AssemblyInfoInputs.cache
+C:\Users\vincent\source\repos\Eimer\Eimer\obj\Debug\netcoreapp3.1\Eimer.AssemblyInfo.cs
+C:\Users\vincent\source\repos\Eimer\Eimer\obj\Debug\netcoreapp3.1\Eimer.csproj.CoreCompileInputs.cache
+C:\Users\vincent\source\repos\Eimer\Eimer\obj\Debug\netcoreapp3.1\Eimer.dll
+C:\Users\vincent\source\repos\Eimer\Eimer\obj\Debug\netcoreapp3.1\Eimer.pdb
+C:\Users\vincent\source\repos\Eimer\Eimer\obj\Debug\netcoreapp3.1\Eimer.genruntimeconfig.cache

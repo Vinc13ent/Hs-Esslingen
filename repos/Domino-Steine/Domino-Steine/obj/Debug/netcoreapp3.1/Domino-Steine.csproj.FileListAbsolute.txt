@@ -1,0 +1,12 @@
+C:\Users\vincent\source\repos\Domino-Steine\Domino-Steine\bin\Debug\netcoreapp3.1\Domino-Steine.exe
+C:\Users\vincent\source\repos\Domino-Steine\Domino-Steine\bin\Debug\netcoreapp3.1\Domino-Steine.deps.json
+C:\Users\vincent\source\repos\Domino-Steine\Domino-Steine\bin\Debug\netcoreapp3.1\Domino-Steine.runtimeconfig.json
+C:\Users\vincent\source\repos\Domino-Steine\Domino-Steine\bin\Debug\netcoreapp3.1\Domino-Steine.runtimeconfig.dev.json
+C:\Users\vincent\source\repos\Domino-Steine\Domino-Steine\bin\Debug\netcoreapp3.1\Domino-Steine.dll
+C:\Users\vincent\source\repos\Domino-Steine\Domino-Steine\bin\Debug\netcoreapp3.1\Domino-Steine.pdb
+C:\Users\vincent\source\repos\Domino-Steine\Domino-Steine\obj\Debug\netcoreapp3.1\Domino-Steine.AssemblyInfoInputs.cache
+C:\Users\vincent\source\repos\Domino-Steine\Domino-Steine\obj\Debug\netcoreapp3.1\Domino-Steine.AssemblyInfo.cs
+C:\Users\vincent\source\repos\Domino-Steine\Domino-Steine\obj\Debug\netcoreapp3.1\Domino-Steine.csproj.CoreCompileInputs.cache
+C:\Users\vincent\source\repos\Domino-Steine\Domino-Steine\obj\Debug\netcoreapp3.1\Domino-Steine.dll
+C:\Users\vincent\source\repos\Domino-Steine\Domino-Steine\obj\Debug\netcoreapp3.1\Domino-Steine.pdb
+C:\Users\vincent\source\repos\Domino-Steine\Domino-Steine\obj\Debug\netcoreapp3.1\Domino-Steine.genruntimeconfig.cache

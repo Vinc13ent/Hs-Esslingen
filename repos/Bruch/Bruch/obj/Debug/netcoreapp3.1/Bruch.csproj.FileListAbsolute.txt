@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\Bruch\Bruch\bin\Debug\netcoreapp3.1\Bruch.exe
+C:\Users\danie\source\repos\Bruch\Bruch\bin\Debug\netcoreapp3.1\Bruch.deps.json
+C:\Users\danie\source\repos\Bruch\Bruch\bin\Debug\netcoreapp3.1\Bruch.runtimeconfig.json
+C:\Users\danie\source\repos\Bruch\Bruch\bin\Debug\netcoreapp3.1\Bruch.runtimeconfig.dev.json
+C:\Users\danie\source\repos\Bruch\Bruch\bin\Debug\netcoreapp3.1\Bruch.dll
+C:\Users\danie\source\repos\Bruch\Bruch\bin\Debug\netcoreapp3.1\Bruch.pdb
+C:\Users\danie\source\repos\Bruch\Bruch\obj\Debug\netcoreapp3.1\Bruch.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Bruch\Bruch\obj\Debug\netcoreapp3.1\Bruch.AssemblyInfo.cs
+C:\Users\danie\source\repos\Bruch\Bruch\obj\Debug\netcoreapp3.1\Bruch.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Bruch\Bruch\obj\Debug\netcoreapp3.1\Bruch.dll
+C:\Users\danie\source\repos\Bruch\Bruch\obj\Debug\netcoreapp3.1\Bruch.pdb
+C:\Users\danie\source\repos\Bruch\Bruch\obj\Debug\netcoreapp3.1\Bruch.genruntimeconfig.cache
+C:\Users\danie\source\repos\Bruch\Bruch\obj\Debug\netcoreapp3.1\Bruch.csprojAssemblyReference.cache

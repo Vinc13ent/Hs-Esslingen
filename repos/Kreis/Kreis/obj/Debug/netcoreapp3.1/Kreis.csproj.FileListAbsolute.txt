@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\Kreis\Kreis\bin\Debug\netcoreapp3.1\Kreis.exe
+C:\Users\danie\source\repos\Kreis\Kreis\bin\Debug\netcoreapp3.1\Kreis.deps.json
+C:\Users\danie\source\repos\Kreis\Kreis\bin\Debug\netcoreapp3.1\Kreis.runtimeconfig.json
+C:\Users\danie\source\repos\Kreis\Kreis\bin\Debug\netcoreapp3.1\Kreis.runtimeconfig.dev.json
+C:\Users\danie\source\repos\Kreis\Kreis\bin\Debug\netcoreapp3.1\Kreis.dll
+C:\Users\danie\source\repos\Kreis\Kreis\bin\Debug\netcoreapp3.1\Kreis.pdb
+C:\Users\danie\source\repos\Kreis\Kreis\obj\Debug\netcoreapp3.1\Kreis.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\Kreis\Kreis\obj\Debug\netcoreapp3.1\Kreis.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Kreis\Kreis\obj\Debug\netcoreapp3.1\Kreis.AssemblyInfo.cs
+C:\Users\danie\source\repos\Kreis\Kreis\obj\Debug\netcoreapp3.1\Kreis.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Kreis\Kreis\obj\Debug\netcoreapp3.1\Kreis.dll
+C:\Users\danie\source\repos\Kreis\Kreis\obj\Debug\netcoreapp3.1\Kreis.pdb
+C:\Users\danie\source\repos\Kreis\Kreis\obj\Debug\netcoreapp3.1\Kreis.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\Stoppuhr\Stoppuhr\obj\Debug\netcoreapp3.1\Stoppuhr.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Stoppuhr\Stoppuhr\obj\Debug\netcoreapp3.1\Stoppuhr.AssemblyInfo.cs
+C:\Users\danie\source\repos\Stoppuhr\Stoppuhr\obj\Debug\netcoreapp3.1\Stoppuhr.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Stoppuhr\Stoppuhr\obj\Debug\netcoreapp3.1\Stoppuhr.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\Stoppuhr\Stoppuhr\bin\Debug\netcoreapp3.1\Stoppuhr.exe
+C:\Users\danie\source\repos\Stoppuhr\Stoppuhr\bin\Debug\netcoreapp3.1\Stoppuhr.deps.json
+C:\Users\danie\source\repos\Stoppuhr\Stoppuhr\bin\Debug\netcoreapp3.1\Stoppuhr.runtimeconfig.json
+C:\Users\danie\source\repos\Stoppuhr\Stoppuhr\bin\Debug\netcoreapp3.1\Stoppuhr.runtimeconfig.dev.json
+C:\Users\danie\source\repos\Stoppuhr\Stoppuhr\bin\Debug\netcoreapp3.1\Stoppuhr.dll
+C:\Users\danie\source\repos\Stoppuhr\Stoppuhr\bin\Debug\netcoreapp3.1\Stoppuhr.pdb
+C:\Users\danie\source\repos\Stoppuhr\Stoppuhr\obj\Debug\netcoreapp3.1\Stoppuhr.dll
+C:\Users\danie\source\repos\Stoppuhr\Stoppuhr\obj\Debug\netcoreapp3.1\Stoppuhr.pdb
+C:\Users\danie\source\repos\Stoppuhr\Stoppuhr\obj\Debug\netcoreapp3.1\Stoppuhr.genruntimeconfig.cache

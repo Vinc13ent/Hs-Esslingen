@@ -1,0 +1,9 @@
+D:\Hochschule\Informatik\Software Engineering 2 ATB\Skript\Beispiele aus der Vorlesung\07 Multithreading\SerialPortExceptionDetail\SerialPortSimple\bin\Debug\SerialPortSimple.exe.config
+D:\Hochschule\Informatik\Software Engineering 2 ATB\Skript\Beispiele aus der Vorlesung\07 Multithreading\SerialPortExceptionDetail\SerialPortSimple\bin\Debug\SerialPortSimple.exe
+D:\Hochschule\Informatik\Software Engineering 2 ATB\Skript\Beispiele aus der Vorlesung\07 Multithreading\SerialPortExceptionDetail\SerialPortSimple\bin\Debug\SerialPortSimple.pdb
+D:\Hochschule\Informatik\Software Engineering 2 ATB\Skript\Beispiele aus der Vorlesung\07 Multithreading\SerialPortExceptionDetail\SerialPortSimple\obj\Debug\SerialPortException.csprojAssemblyReference.cache
+D:\Hochschule\Informatik\Software Engineering 2 ATB\Skript\Beispiele aus der Vorlesung\07 Multithreading\SerialPortExceptionDetail\SerialPortSimple\obj\Debug\SerialPortSimple.Form1.resources
+D:\Hochschule\Informatik\Software Engineering 2 ATB\Skript\Beispiele aus der Vorlesung\07 Multithreading\SerialPortExceptionDetail\SerialPortSimple\obj\Debug\SerialPortSimple.Properties.Resources.resources
+D:\Hochschule\Informatik\Software Engineering 2 ATB\Skript\Beispiele aus der Vorlesung\07 Multithreading\SerialPortExceptionDetail\SerialPortSimple\obj\Debug\SerialPortException.csproj.GenerateResource.cache
+D:\Hochschule\Informatik\Software Engineering 2 ATB\Skript\Beispiele aus der Vorlesung\07 Multithreading\SerialPortExceptionDetail\SerialPortSimple\obj\Debug\SerialPortSimple.exe
+D:\Hochschule\Informatik\Software Engineering 2 ATB\Skript\Beispiele aus der Vorlesung\07 Multithreading\SerialPortExceptionDetail\SerialPortSimple\obj\Debug\SerialPortSimple.pdb

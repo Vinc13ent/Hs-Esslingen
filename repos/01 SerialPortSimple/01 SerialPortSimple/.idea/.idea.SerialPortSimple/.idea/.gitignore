@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.SerialPortSimple.iml
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../../:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\01 SerialPortSimple\01 SerialPortSimple\.idea\.idea.SerialPortSimple\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\Roboter\Roboter\bin\Debug\netcoreapp3.1\Roboter.exe
+C:\Users\danie\source\repos\Roboter\Roboter\bin\Debug\netcoreapp3.1\Roboter.deps.json
+C:\Users\danie\source\repos\Roboter\Roboter\bin\Debug\netcoreapp3.1\Roboter.runtimeconfig.json
+C:\Users\danie\source\repos\Roboter\Roboter\bin\Debug\netcoreapp3.1\Roboter.runtimeconfig.dev.json
+C:\Users\danie\source\repos\Roboter\Roboter\bin\Debug\netcoreapp3.1\Roboter.dll
+C:\Users\danie\source\repos\Roboter\Roboter\bin\Debug\netcoreapp3.1\Roboter.pdb
+C:\Users\danie\source\repos\Roboter\Roboter\obj\Debug\netcoreapp3.1\Roboter.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\Roboter\Roboter\obj\Debug\netcoreapp3.1\Roboter.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Roboter\Roboter\obj\Debug\netcoreapp3.1\Roboter.AssemblyInfo.cs
+C:\Users\danie\source\repos\Roboter\Roboter\obj\Debug\netcoreapp3.1\Roboter.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Roboter\Roboter\obj\Debug\netcoreapp3.1\Roboter.dll
+C:\Users\danie\source\repos\Roboter\Roboter\obj\Debug\netcoreapp3.1\Roboter.pdb
+C:\Users\danie\source\repos\Roboter\Roboter\obj\Debug\netcoreapp3.1\Roboter.genruntimeconfig.cache

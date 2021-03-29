@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\Lampen\Lampen\bin\Debug\netcoreapp3.1\Lampen.exe
+C:\Users\danie\source\repos\Lampen\Lampen\bin\Debug\netcoreapp3.1\Lampen.deps.json
+C:\Users\danie\source\repos\Lampen\Lampen\bin\Debug\netcoreapp3.1\Lampen.runtimeconfig.json
+C:\Users\danie\source\repos\Lampen\Lampen\bin\Debug\netcoreapp3.1\Lampen.runtimeconfig.dev.json
+C:\Users\danie\source\repos\Lampen\Lampen\bin\Debug\netcoreapp3.1\Lampen.dll
+C:\Users\danie\source\repos\Lampen\Lampen\bin\Debug\netcoreapp3.1\Lampen.pdb
+C:\Users\danie\source\repos\Lampen\Lampen\obj\Debug\netcoreapp3.1\Lampen.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\Lampen\Lampen\obj\Debug\netcoreapp3.1\Lampen.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Lampen\Lampen\obj\Debug\netcoreapp3.1\Lampen.AssemblyInfo.cs
+C:\Users\danie\source\repos\Lampen\Lampen\obj\Debug\netcoreapp3.1\Lampen.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Lampen\Lampen\obj\Debug\netcoreapp3.1\Lampen.dll
+C:\Users\danie\source\repos\Lampen\Lampen\obj\Debug\netcoreapp3.1\Lampen.pdb
+C:\Users\danie\source\repos\Lampen\Lampen\obj\Debug\netcoreapp3.1\Lampen.genruntimeconfig.cache

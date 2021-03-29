@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\Umgang mit Feldern\Umgang mit Feldern\bin\Debug\netcoreapp3.1\Umgang mit Feldern.exe
+C:\Users\danie\source\repos\Umgang mit Feldern\Umgang mit Feldern\bin\Debug\netcoreapp3.1\Umgang mit Feldern.deps.json
+C:\Users\danie\source\repos\Umgang mit Feldern\Umgang mit Feldern\bin\Debug\netcoreapp3.1\Umgang mit Feldern.runtimeconfig.json
+C:\Users\danie\source\repos\Umgang mit Feldern\Umgang mit Feldern\bin\Debug\netcoreapp3.1\Umgang mit Feldern.runtimeconfig.dev.json
+C:\Users\danie\source\repos\Umgang mit Feldern\Umgang mit Feldern\bin\Debug\netcoreapp3.1\Umgang mit Feldern.dll
+C:\Users\danie\source\repos\Umgang mit Feldern\Umgang mit Feldern\bin\Debug\netcoreapp3.1\Umgang mit Feldern.pdb
+C:\Users\danie\source\repos\Umgang mit Feldern\Umgang mit Feldern\obj\Debug\netcoreapp3.1\Umgang mit Feldern.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\Umgang mit Feldern\Umgang mit Feldern\obj\Debug\netcoreapp3.1\Umgang mit Feldern.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Umgang mit Feldern\Umgang mit Feldern\obj\Debug\netcoreapp3.1\Umgang mit Feldern.AssemblyInfo.cs
+C:\Users\danie\source\repos\Umgang mit Feldern\Umgang mit Feldern\obj\Debug\netcoreapp3.1\Umgang mit Feldern.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Umgang mit Feldern\Umgang mit Feldern\obj\Debug\netcoreapp3.1\Umgang mit Feldern.dll
+C:\Users\danie\source\repos\Umgang mit Feldern\Umgang mit Feldern\obj\Debug\netcoreapp3.1\Umgang mit Feldern.pdb
+C:\Users\danie\source\repos\Umgang mit Feldern\Umgang mit Feldern\obj\Debug\netcoreapp3.1\Umgang mit Feldern.genruntimeconfig.cache

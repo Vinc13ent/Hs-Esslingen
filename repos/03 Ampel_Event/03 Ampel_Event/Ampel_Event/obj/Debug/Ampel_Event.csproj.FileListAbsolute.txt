@@ -1,0 +1,28 @@
+D:\Hochschule\C#\Ampel_Event\Ampel_Event\bin\Debug\Ampel_Event.exe.config
+D:\Hochschule\C#\Ampel_Event\Ampel_Event\bin\Debug\Ampel_Event.exe
+D:\Hochschule\C#\Ampel_Event\Ampel_Event\bin\Debug\Ampel_Event.pdb
+D:\Hochschule\C#\Ampel_Event\Ampel_Event\obj\Debug\Ampel_Event.csprojAssemblyReference.cache
+D:\Hochschule\C#\Ampel_Event\Ampel_Event\obj\Debug\Ampel_Event.csproj.CoreCompileInputs.cache
+D:\Hochschule\C#\Ampel_Event\Ampel_Event\obj\Debug\Ampel_Event.exe
+D:\Hochschule\C#\Ampel_Event\Ampel_Event\obj\Debug\Ampel_Event.pdb
+D:\Hochschule\Informatik\Informatik 2\Programme\Ampel_Event\Ampel_Event\bin\Debug\Ampel_Event.exe.config
+D:\Hochschule\Informatik\Informatik 2\Programme\Ampel_Event\Ampel_Event\bin\Debug\Ampel_Event.exe
+D:\Hochschule\Informatik\Informatik 2\Programme\Ampel_Event\Ampel_Event\bin\Debug\Ampel_Event.pdb
+D:\Hochschule\Informatik\Informatik 2\Programme\Ampel_Event\Ampel_Event\obj\Debug\Ampel_Event.csprojAssemblyReference.cache
+D:\Hochschule\Informatik\Informatik 2\Programme\Ampel_Event\Ampel_Event\obj\Debug\Ampel_Event.csproj.CoreCompileInputs.cache
+D:\Hochschule\Informatik\Informatik 2\Programme\Ampel_Event\Ampel_Event\obj\Debug\Ampel_Event.exe
+D:\Hochschule\Informatik\Informatik 2\Programme\Ampel_Event\Ampel_Event\obj\Debug\Ampel_Event.pdb
+D:\Hochschule\Informatik\Informatik 2\Programme\Events\Ampel_Event\Ampel_Event\bin\Debug\Ampel_Event.exe.config
+D:\Hochschule\Informatik\Informatik 2\Programme\Events\Ampel_Event\Ampel_Event\bin\Debug\Ampel_Event.exe
+D:\Hochschule\Informatik\Informatik 2\Programme\Events\Ampel_Event\Ampel_Event\bin\Debug\Ampel_Event.pdb
+D:\Hochschule\Informatik\Informatik 2\Programme\Events\Ampel_Event\Ampel_Event\obj\Debug\Ampel_Event.csprojAssemblyReference.cache
+D:\Hochschule\Informatik\Informatik 2\Programme\Events\Ampel_Event\Ampel_Event\obj\Debug\Ampel_Event.csproj.CoreCompileInputs.cache
+D:\Hochschule\Informatik\Informatik 2\Programme\Events\Ampel_Event\Ampel_Event\obj\Debug\Ampel_Event.exe
+D:\Hochschule\Informatik\Informatik 2\Programme\Events\Ampel_Event\Ampel_Event\obj\Debug\Ampel_Event.pdb
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\Exception_Events_Threads\Ampel_Event\Ampel_Event\bin\Debug\Ampel_Event.exe.config
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\Exception_Events_Threads\Ampel_Event\Ampel_Event\bin\Debug\Ampel_Event.exe
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\Exception_Events_Threads\Ampel_Event\Ampel_Event\bin\Debug\Ampel_Event.pdb
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\Exception_Events_Threads\Ampel_Event\Ampel_Event\obj\Debug\Ampel_Event.csprojAssemblyReference.cache
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\Exception_Events_Threads\Ampel_Event\Ampel_Event\obj\Debug\Ampel_Event.csproj.CoreCompileInputs.cache
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\Exception_Events_Threads\Ampel_Event\Ampel_Event\obj\Debug\Ampel_Event.exe
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\Exception_Events_Threads\Ampel_Event\Ampel_Event\obj\Debug\Ampel_Event.pdb

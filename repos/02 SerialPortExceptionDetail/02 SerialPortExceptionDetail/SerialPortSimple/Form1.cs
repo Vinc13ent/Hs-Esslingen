@@ -23,7 +23,7 @@ namespace SerialPortSimple
         private void StartButton_Click(object sender, EventArgs e)
         {
             SerialPort serialPort = new SerialPort();
-            serialPort.PortName = "COM3";
+            serialPort.PortName = "COM20";
             serialPort.BaudRate = 9600;
             serialPort.DtrEnable = true;
 

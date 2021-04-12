@@ -37,7 +37,7 @@ namespace Ampel_Event
                         _farbe = Farbwerte.gruen;
                         break;
                     case Farbwerte.gruen:
-                        if (ampelgruen!= null)//warten Autos?
+                        if (ampelgruen != null)//warten Autos?
                         {
                             ampelgruen();
                         }

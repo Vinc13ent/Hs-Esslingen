@@ -172,8 +172,9 @@ namespace Labor_01_Teil1_Serielle_kommunikation
         {
             if (serialPort.IsOpen)
             {
-                byte[] command = new byte[] { (byte)CommandBytes.SetCounterZero };
+                byte[] command = new byte[] {(byte) CommandBytes.SetCounterZero};
                 serialPort.Write(command, 0, 1);
+                CurrentNumber = 0;
             }
             else
             {

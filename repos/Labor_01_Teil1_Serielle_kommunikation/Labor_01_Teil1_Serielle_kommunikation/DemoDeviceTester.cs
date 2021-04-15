@@ -50,8 +50,9 @@ namespace Labor_01_Teil1_Serielle_kommunikation
             int port = Convert.ToInt32(comUpDown.Value);
             _device.Connect(port);
             ConectionStateLabel.Text = _device.ConnectionState.ToString();
-            DeviceLabel.Text = "Name: " + _device.DeviceName;
-            SerialNumberLabel.Text = "S/N: " + _device.SerialNumber;
+            DeviceLabel.Text = 
+            DeviceLabel.Text = _device.DeviceName;
+            SerialNumberLabel.Text = "S/N" + _device.SerialNumber;
         }
 
         private void comUpDown_ValueChanged(object sender, EventArgs e)
@@ -60,13 +61,11 @@ namespace Labor_01_Teil1_Serielle_kommunikation
 
         public void OnDevicePropertyChanged(object sender, string propertyName)
         {
-            Console.WriteLine(propertyName);
-            CounterTextBox.Text = propertyName;
             if (int.TryParse(propertyName, out int i))
             {
                 if (propertyName.Length == 6)
                 {
-                    SerialNumberLabel.Text = propertyName;
+                    SerialNumberLabel.Text = "S/N: " + propertyName;
                 }
                 else
                 {

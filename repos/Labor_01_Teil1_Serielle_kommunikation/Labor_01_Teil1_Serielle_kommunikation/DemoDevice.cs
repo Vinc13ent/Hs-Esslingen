@@ -3,6 +3,8 @@ using System.ComponentModel;
 using System.IO.Ports;
 using System.Linq;
 using System.Windows.Forms;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace Labor_01_Teil1_Serielle_kommunikation
 {
@@ -103,16 +105,16 @@ namespace Labor_01_Teil1_Serielle_kommunikation
                 serialPort.BaudRate = 9600;
                 ConnectionState = ConnectionStates.Connecting;
                 serialPort.Open();
-                if (serialPort.IsOpen)
-                { 
-                    ConnectionState = ConnectionStates.Connected;
-                    ReadDeviceInfo();
-                }
+                ConnectionState = ConnectionStates.Connected;
+                Thread readDeviceInfoThread = new Thread(ReadDeviceInfo);
+                readDeviceInfoThread.IsBackground = true;
+                readDeviceInfoThread.Start();
+
             }
             catch
             { 
                 Console.WriteLine("Verbindung fehlgeschlagen");
-                ConnectionState = ConnectionStates.Disconnected;
+                Disconnect();
             }
         }
 
@@ -126,8 +128,12 @@ namespace Labor_01_Teil1_Serielle_kommunikation
             DeviceName = serialPort.ReadLine();
             serialPort.Write(commandSerialNumber, 0, 1);
             SerialNumber = serialPort.ReadLine();
-            serialPort.Write(commandCounterNumber, 0, 1);
-            CurrentNumber = int.Parse(serialPort.ReadLine());
+            while (true)
+            {
+                serialPort.Write(commandCounterNumber, 0, 1);
+                CurrentNumber = int.Parse(serialPort.ReadLine());
+                Thread.Sleep(200);
+            }
         }
 
         public void Disconnect()

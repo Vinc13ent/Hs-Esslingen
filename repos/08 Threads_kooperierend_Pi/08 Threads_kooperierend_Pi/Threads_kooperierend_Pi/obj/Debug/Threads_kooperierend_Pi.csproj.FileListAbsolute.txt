@@ -1,0 +1,10 @@
+D:\Hochschule\C#\Threads_kooperierend_Pi\Threads_kooperierend_Pi\obj\Debug\Threads_kooperierend_Pi.csprojAssemblyReference.cache
+D:\Hochschule\C#\Threads_kooperierend_Pi\Threads_kooperierend_Pi\obj\Debug\Threads_kooperierend_Pi.Form1.resources
+D:\Hochschule\C#\Threads_kooperierend_Pi\Threads_kooperierend_Pi\obj\Debug\Threads_kooperierend_Pi.Properties.Resources.resources
+D:\Hochschule\C#\Threads_kooperierend_Pi\Threads_kooperierend_Pi\obj\Debug\Threads_kooperierend_Pi.csproj.GenerateResource.cache
+D:\Hochschule\C#\Threads_kooperierend_Pi\Threads_kooperierend_Pi\bin\Debug\Threads_kooperierend_Pi.exe.config
+D:\Hochschule\C#\Threads_kooperierend_Pi\Threads_kooperierend_Pi\bin\Debug\Threads_kooperierend_Pi.exe
+D:\Hochschule\C#\Threads_kooperierend_Pi\Threads_kooperierend_Pi\bin\Debug\Threads_kooperierend_Pi.pdb
+D:\Hochschule\C#\Threads_kooperierend_Pi\Threads_kooperierend_Pi\obj\Debug\Threads_kooperierend_Pi.exe
+D:\Hochschule\C#\Threads_kooperierend_Pi\Threads_kooperierend_Pi\obj\Debug\Threads_kooperierend_Pi.pdb
+D:\Hochschule\C#\Threads_kooperierend_Pi\Threads_kooperierend_Pi\obj\Debug\Threads_kooperierend_Pi.csproj.CoreCompileInputs.cache

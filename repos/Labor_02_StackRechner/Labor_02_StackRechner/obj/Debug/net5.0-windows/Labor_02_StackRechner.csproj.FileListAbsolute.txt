@@ -1,0 +1,16 @@
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\Labor_02_StackRechner\Labor_02_StackRechner\obj\Debug\net5.0-windows\Labor_02_StackRechner.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\Labor_02_StackRechner\Labor_02_StackRechner\obj\Debug\net5.0-windows\Labor_02_StackRechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\Labor_02_StackRechner\Labor_02_StackRechner\obj\Debug\net5.0-windows\Labor_02_StackRechner.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\Labor_02_StackRechner\Labor_02_StackRechner\obj\Debug\net5.0-windows\Labor_02_StackRechner.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\Labor_02_StackRechner\Labor_02_StackRechner\obj\Debug\net5.0-windows\Labor_02_StackRechner.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\Labor_02_StackRechner\Labor_02_StackRechner\bin\Debug\net5.0-windows\Labor_02_StackRechner.exe
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\Labor_02_StackRechner\Labor_02_StackRechner\bin\Debug\net5.0-windows\Labor_02_StackRechner.deps.json
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\Labor_02_StackRechner\Labor_02_StackRechner\bin\Debug\net5.0-windows\Labor_02_StackRechner.runtimeconfig.json
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\Labor_02_StackRechner\Labor_02_StackRechner\bin\Debug\net5.0-windows\Labor_02_StackRechner.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\Labor_02_StackRechner\Labor_02_StackRechner\bin\Debug\net5.0-windows\Labor_02_StackRechner.dll
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\Labor_02_StackRechner\Labor_02_StackRechner\bin\Debug\net5.0-windows\ref\Labor_02_StackRechner.dll
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\Labor_02_StackRechner\Labor_02_StackRechner\bin\Debug\net5.0-windows\Labor_02_StackRechner.pdb
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\Labor_02_StackRechner\Labor_02_StackRechner\obj\Debug\net5.0-windows\Labor_02_StackRechner.dll
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\Labor_02_StackRechner\Labor_02_StackRechner\obj\Debug\net5.0-windows\ref\Labor_02_StackRechner.dll
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\Labor_02_StackRechner\Labor_02_StackRechner\obj\Debug\net5.0-windows\Labor_02_StackRechner.pdb
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\Labor_02_StackRechner\Labor_02_StackRechner\obj\Debug\net5.0-windows\Labor_02_StackRechner.genruntimeconfig.cache

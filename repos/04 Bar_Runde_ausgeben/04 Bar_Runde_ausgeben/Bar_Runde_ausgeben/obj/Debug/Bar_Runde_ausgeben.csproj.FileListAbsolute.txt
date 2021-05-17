@@ -1,0 +1,30 @@
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\02 Events\Bar_Runde_ausgeben\Bar_Runde_ausgeben\obj\Debug\Bar_Runde_ausgeben.csprojAssemblyReference.cache
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\02 Events\Bar_Runde_ausgeben\Bar_Runde_ausgeben\obj\Debug\Bar_Runde_ausgeben.Form1.resources
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\02 Events\Bar_Runde_ausgeben\Bar_Runde_ausgeben\obj\Debug\Bar_Runde_ausgeben.Properties.Resources.resources
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\02 Events\Bar_Runde_ausgeben\Bar_Runde_ausgeben\obj\Debug\Bar_Runde_ausgeben.csproj.GenerateResource.cache
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\02 Events\Bar_Runde_ausgeben\Bar_Runde_ausgeben\obj\Debug\Bar_Runde_ausgeben.csproj.CoreCompileInputs.cache
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\02 Events\Bar_Runde_ausgeben\Bar_Runde_ausgeben\bin\Debug\Bar_Runde_ausgeben.exe.config
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\02 Events\Bar_Runde_ausgeben\Bar_Runde_ausgeben\bin\Debug\Bar_Runde_ausgeben.exe
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\02 Events\Bar_Runde_ausgeben\Bar_Runde_ausgeben\bin\Debug\Bar_Runde_ausgeben.pdb
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\02 Events\Bar_Runde_ausgeben\Bar_Runde_ausgeben\obj\Debug\Bar_Runde_ausgeben.exe
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\02 Events\Bar_Runde_ausgeben\Bar_Runde_ausgeben\obj\Debug\Bar_Runde_ausgeben.pdb
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\02 Events\03 Bar_Runde_ausgeben\Bar_Runde_ausgeben\bin\Debug\Bar_Runde_ausgeben.exe.config
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\02 Events\03 Bar_Runde_ausgeben\Bar_Runde_ausgeben\bin\Debug\Bar_Runde_ausgeben.exe
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\02 Events\03 Bar_Runde_ausgeben\Bar_Runde_ausgeben\bin\Debug\Bar_Runde_ausgeben.pdb
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\02 Events\03 Bar_Runde_ausgeben\Bar_Runde_ausgeben\obj\Debug\Bar_Runde_ausgeben.csprojAssemblyReference.cache
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\02 Events\03 Bar_Runde_ausgeben\Bar_Runde_ausgeben\obj\Debug\Bar_Runde_ausgeben.Form1.resources
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\02 Events\03 Bar_Runde_ausgeben\Bar_Runde_ausgeben\obj\Debug\Bar_Runde_ausgeben.Properties.Resources.resources
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\02 Events\03 Bar_Runde_ausgeben\Bar_Runde_ausgeben\obj\Debug\Bar_Runde_ausgeben.csproj.GenerateResource.cache
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\02 Events\03 Bar_Runde_ausgeben\Bar_Runde_ausgeben\obj\Debug\Bar_Runde_ausgeben.csproj.CoreCompileInputs.cache
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\02 Events\03 Bar_Runde_ausgeben\Bar_Runde_ausgeben\obj\Debug\Bar_Runde_ausgeben.exe
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\02 Events\03 Bar_Runde_ausgeben\Bar_Runde_ausgeben\obj\Debug\Bar_Runde_ausgeben.pdb
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\04 Bar_Runde_ausgeben\04 Bar_Runde_ausgeben\Bar_Runde_ausgeben\bin\Debug\Bar_Runde_ausgeben.exe.config
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\04 Bar_Runde_ausgeben\04 Bar_Runde_ausgeben\Bar_Runde_ausgeben\bin\Debug\Bar_Runde_ausgeben.exe
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\04 Bar_Runde_ausgeben\04 Bar_Runde_ausgeben\Bar_Runde_ausgeben\bin\Debug\Bar_Runde_ausgeben.pdb
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\04 Bar_Runde_ausgeben\04 Bar_Runde_ausgeben\Bar_Runde_ausgeben\obj\Debug\Bar_Runde_ausgeben.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\04 Bar_Runde_ausgeben\04 Bar_Runde_ausgeben\Bar_Runde_ausgeben\obj\Debug\Bar_Runde_ausgeben.Form1.resources
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\04 Bar_Runde_ausgeben\04 Bar_Runde_ausgeben\Bar_Runde_ausgeben\obj\Debug\Bar_Runde_ausgeben.Properties.Resources.resources
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\04 Bar_Runde_ausgeben\04 Bar_Runde_ausgeben\Bar_Runde_ausgeben\obj\Debug\Bar_Runde_ausgeben.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\04 Bar_Runde_ausgeben\04 Bar_Runde_ausgeben\Bar_Runde_ausgeben\obj\Debug\Bar_Runde_ausgeben.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\04 Bar_Runde_ausgeben\04 Bar_Runde_ausgeben\Bar_Runde_ausgeben\obj\Debug\Bar_Runde_ausgeben.exe
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\04 Bar_Runde_ausgeben\04 Bar_Runde_ausgeben\Bar_Runde_ausgeben\obj\Debug\Bar_Runde_ausgeben.pdb

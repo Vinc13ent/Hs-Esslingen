@@ -1,0 +1,10 @@
+D:\Hochschule\C#\WinFormund Event\WinFormund Event\bin\Debug\WinFormund Event.exe.config
+D:\Hochschule\C#\WinFormund Event\WinFormund Event\bin\Debug\WinFormund Event.exe
+D:\Hochschule\C#\WinFormund Event\WinFormund Event\bin\Debug\WinFormund Event.pdb
+D:\Hochschule\C#\WinFormund Event\WinFormund Event\obj\Debug\WinFormund Event.csprojAssemblyReference.cache
+D:\Hochschule\C#\WinFormund Event\WinFormund Event\obj\Debug\WinFormund_Event.Form1.resources
+D:\Hochschule\C#\WinFormund Event\WinFormund Event\obj\Debug\WinFormund_Event.Properties.Resources.resources
+D:\Hochschule\C#\WinFormund Event\WinFormund Event\obj\Debug\WinFormund Event.csproj.GenerateResource.cache
+D:\Hochschule\C#\WinFormund Event\WinFormund Event\obj\Debug\WinFormund Event.csproj.CoreCompileInputs.cache
+D:\Hochschule\C#\WinFormund Event\WinFormund Event\obj\Debug\WinFormund Event.exe
+D:\Hochschule\C#\WinFormund Event\WinFormund Event\obj\Debug\WinFormund Event.pdb

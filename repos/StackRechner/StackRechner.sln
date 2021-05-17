@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackRechner", "StackRechner\StackRechner.csproj", "{EB6453A6-6F80-4EDC-80A5-F6338BFA2FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB6453A6-6F80-4EDC-80A5-F6338BFA2FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB6453A6-6F80-4EDC-80A5-F6338BFA2FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB6453A6-6F80-4EDC-80A5-F6338BFA2FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB6453A6-6F80-4EDC-80A5-F6338BFA2FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

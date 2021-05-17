@@ -1,0 +1,14 @@
+D:\Hochschule\C#\ThreadNamenlesen\ThreadNamenlesen\bin\Debug\ThreadNamenlesen.exe.config
+D:\Hochschule\C#\ThreadNamenlesen\ThreadNamenlesen\bin\Debug\ThreadNamenlesen.exe
+D:\Hochschule\C#\ThreadNamenlesen\ThreadNamenlesen\bin\Debug\ThreadNamenlesen.pdb
+D:\Hochschule\C#\ThreadNamenlesen\ThreadNamenlesen\obj\Debug\ThreadNamenlesen.csprojAssemblyReference.cache
+D:\Hochschule\C#\ThreadNamenlesen\ThreadNamenlesen\obj\Debug\ThreadNamenlesen.exe
+D:\Hochschule\C#\ThreadNamenlesen\ThreadNamenlesen\obj\Debug\ThreadNamenlesen.pdb
+D:\Hochschule\C#\ThreadNamenlesen\ThreadNamenlesen\obj\Debug\ThreadNamenlesen.csproj.CoreCompileInputs.cache
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\03 Threads\04 ThreadNamenlesen\ThreadNamenlesen\bin\Debug\ThreadNamenlesen.exe.config
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\03 Threads\04 ThreadNamenlesen\ThreadNamenlesen\bin\Debug\ThreadNamenlesen.exe
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\03 Threads\04 ThreadNamenlesen\ThreadNamenlesen\bin\Debug\ThreadNamenlesen.pdb
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\03 Threads\04 ThreadNamenlesen\ThreadNamenlesen\obj\Debug\ThreadNamenlesen.csprojAssemblyReference.cache
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\03 Threads\04 ThreadNamenlesen\ThreadNamenlesen\obj\Debug\ThreadNamenlesen.csproj.CoreCompileInputs.cache
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\03 Threads\04 ThreadNamenlesen\ThreadNamenlesen\obj\Debug\ThreadNamenlesen.exe
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\03 Threads\04 ThreadNamenlesen\ThreadNamenlesen\obj\Debug\ThreadNamenlesen.pdb

@@ -15,7 +15,7 @@ namespace Labor_01_Teil1_Serielle_kommunikation
     public partial class DemoDeviceTester : Form 
     {
 
-        private DemoDevice _device;
+        DemoDevice _device;
         
         public DemoDeviceTester()
         {
@@ -50,7 +50,6 @@ namespace Labor_01_Teil1_Serielle_kommunikation
             int port = Convert.ToInt32(comUpDown.Value);
             _device.Connect(port);
             ConectionStateLabel.Text = _device.ConnectionState.ToString();
-            DeviceLabel.Text = 
             DeviceLabel.Text = _device.DeviceName;
             SerialNumberLabel.Text = "S/N" + _device.SerialNumber;
         }

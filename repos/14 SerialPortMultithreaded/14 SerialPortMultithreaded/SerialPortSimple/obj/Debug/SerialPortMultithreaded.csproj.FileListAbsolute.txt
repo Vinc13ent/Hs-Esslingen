@@ -1,0 +1,47 @@
+C:\Users\mkaupp\Documents\Vorlesungen\Software Engineering 2\Projekte\Multithreading\BeispieleVorlesung\SerialPortMultithreaded\SerialPortSimple\bin\Debug\SerialPortSimple.exe.config
+C:\Users\mkaupp\Documents\Vorlesungen\Software Engineering 2\Projekte\Multithreading\BeispieleVorlesung\SerialPortMultithreaded\SerialPortSimple\bin\Debug\SerialPortSimple.exe
+C:\Users\mkaupp\Documents\Vorlesungen\Software Engineering 2\Projekte\Multithreading\BeispieleVorlesung\SerialPortMultithreaded\SerialPortSimple\bin\Debug\SerialPortSimple.pdb
+C:\Users\mkaupp\Documents\Vorlesungen\Software Engineering 2\Projekte\Multithreading\BeispieleVorlesung\SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortMultithreaded.csprojResolveAssemblyReference.cache
+C:\Users\mkaupp\Documents\Vorlesungen\Software Engineering 2\Projekte\Multithreading\BeispieleVorlesung\SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortSimple.Form1.resources
+C:\Users\mkaupp\Documents\Vorlesungen\Software Engineering 2\Projekte\Multithreading\BeispieleVorlesung\SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortSimple.Properties.Resources.resources
+C:\Users\mkaupp\Documents\Vorlesungen\Software Engineering 2\Projekte\Multithreading\BeispieleVorlesung\SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortMultithreaded.csproj.GenerateResource.Cache
+C:\Users\mkaupp\Documents\Vorlesungen\Software Engineering 2\Projekte\Multithreading\BeispieleVorlesung\SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortSimple.exe
+C:\Users\mkaupp\Documents\Vorlesungen\Software Engineering 2\Projekte\Multithreading\BeispieleVorlesung\SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortSimple.pdb
+D:\Dokumente\Vorlesungen\Software Engineering 2\Projekte\Multithreading\BeispieleVorlesung\SerialPortMultithreaded\SerialPortSimple\bin\Debug\SerialPortSimple.exe.config
+D:\Dokumente\Vorlesungen\Software Engineering 2\Projekte\Multithreading\BeispieleVorlesung\SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortSimple.exe
+D:\Dokumente\Vorlesungen\Software Engineering 2\Projekte\Multithreading\BeispieleVorlesung\SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortSimple.pdb
+D:\Dokumente\Vorlesungen\Software Engineering 2\Projekte\Multithreading\BeispieleVorlesung\SerialPortMultithreaded\SerialPortSimple\bin\Debug\SerialPortSimple.exe
+D:\Dokumente\Vorlesungen\Software Engineering 2\Projekte\Multithreading\BeispieleVorlesung\SerialPortMultithreaded\SerialPortSimple\bin\Debug\SerialPortSimple.pdb
+D:\Dokumente\Vorlesungen\Software Engineering 2\Projekte\Multithreading\BeispieleVorlesung\SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortMultithreaded.csprojResolveAssemblyReference.cache
+D:\Dokumente\Vorlesungen\Software Engineering 2\Projekte\Multithreading\BeispieleVorlesung\SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortSimple.Form1.resources
+D:\Dokumente\Vorlesungen\Software Engineering 2\Projekte\Multithreading\BeispieleVorlesung\SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortSimple.Properties.Resources.resources
+D:\Dokumente\Vorlesungen\Software Engineering 2\Projekte\Multithreading\BeispieleVorlesung\SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortMultithreaded.csproj.GenerateResource.Cache
+D:\Hochschule\Informatik\Software Engineering 2 ATB\Skript\Beispiele aus der Vorlesung\07 Multithreading\SerialPortMultithreaded\SerialPortSimple\bin\Debug\SerialPortSimple.exe.config
+D:\Hochschule\Informatik\Software Engineering 2 ATB\Skript\Beispiele aus der Vorlesung\07 Multithreading\SerialPortMultithreaded\SerialPortSimple\bin\Debug\SerialPortSimple.exe
+D:\Hochschule\Informatik\Software Engineering 2 ATB\Skript\Beispiele aus der Vorlesung\07 Multithreading\SerialPortMultithreaded\SerialPortSimple\bin\Debug\SerialPortSimple.pdb
+D:\Hochschule\Informatik\Software Engineering 2 ATB\Skript\Beispiele aus der Vorlesung\07 Multithreading\SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortMultithreaded.csprojAssemblyReference.cache
+D:\Hochschule\Informatik\Software Engineering 2 ATB\Skript\Beispiele aus der Vorlesung\07 Multithreading\SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortSimple.Form1.resources
+D:\Hochschule\Informatik\Software Engineering 2 ATB\Skript\Beispiele aus der Vorlesung\07 Multithreading\SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortSimple.Properties.Resources.resources
+D:\Hochschule\Informatik\Software Engineering 2 ATB\Skript\Beispiele aus der Vorlesung\07 Multithreading\SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortMultithreaded.csproj.GenerateResource.cache
+D:\Hochschule\Informatik\Software Engineering 2 ATB\Skript\Beispiele aus der Vorlesung\07 Multithreading\SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortSimple.exe
+D:\Hochschule\Informatik\Software Engineering 2 ATB\Skript\Beispiele aus der Vorlesung\07 Multithreading\SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortSimple.pdb
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\03 Threads\SerialPortMultithreaded\SerialPortSimple\bin\Debug\SerialPortSimple.exe.config
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\03 Threads\SerialPortMultithreaded\SerialPortSimple\bin\Debug\SerialPortSimple.exe
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\03 Threads\SerialPortMultithreaded\SerialPortSimple\bin\Debug\SerialPortSimple.pdb
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\03 Threads\SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortMultithreaded.csprojAssemblyReference.cache
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\03 Threads\SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortSimple.Form1.resources
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\03 Threads\SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortSimple.Properties.Resources.resources
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\03 Threads\SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortMultithreaded.csproj.GenerateResource.cache
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\03 Threads\SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortMultithreaded.csproj.CoreCompileInputs.cache
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\03 Threads\SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortSimple.exe
+D:\Hochschule\Informatik\Informatik 2\Programme\Teil 1\03 Threads\SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortSimple.pdb
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\14 SerialPortMultithreaded\14 SerialPortMultithreaded\SerialPortSimple\bin\Debug\SerialPortSimple.exe.config
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\14 SerialPortMultithreaded\14 SerialPortMultithreaded\SerialPortSimple\bin\Debug\SerialPortSimple.exe
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\14 SerialPortMultithreaded\14 SerialPortMultithreaded\SerialPortSimple\bin\Debug\SerialPortSimple.pdb
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\14 SerialPortMultithreaded\14 SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortMultithreaded.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\14 SerialPortMultithreaded\14 SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortSimple.Form1.resources
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\14 SerialPortMultithreaded\14 SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortSimple.Properties.Resources.resources
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\14 SerialPortMultithreaded\14 SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortMultithreaded.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\14 SerialPortMultithreaded\14 SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortMultithreaded.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\14 SerialPortMultithreaded\14 SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortSimple.exe
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\14 SerialPortMultithreaded\14 SerialPortMultithreaded\SerialPortSimple\obj\Debug\SerialPortSimple.pdb

@@ -1,0 +1,19 @@
+D:\Hochschule\C#\Gluecksrad_Rumpf\Gluecksrad_Rumpf\bin\Debug\Gluecksrad_Rumpf.exe.config
+D:\Hochschule\C#\Gluecksrad_Rumpf\Gluecksrad_Rumpf\bin\Debug\Gluecksrad_Rumpf.exe
+D:\Hochschule\C#\Gluecksrad_Rumpf\Gluecksrad_Rumpf\bin\Debug\Gluecksrad_Rumpf.pdb
+D:\Hochschule\C#\Gluecksrad_Rumpf\Gluecksrad_Rumpf\obj\Debug\Gluecksrad_Rumpf.csprojAssemblyReference.cache
+D:\Hochschule\C#\Gluecksrad_Rumpf\Gluecksrad_Rumpf\obj\Debug\Gluecksrad_Rumpf.Form1.resources
+D:\Hochschule\C#\Gluecksrad_Rumpf\Gluecksrad_Rumpf\obj\Debug\Gluecksrad_Rumpf.Properties.Resources.resources
+D:\Hochschule\C#\Gluecksrad_Rumpf\Gluecksrad_Rumpf\obj\Debug\Gluecksrad_Rumpf.csproj.GenerateResource.cache
+D:\Hochschule\C#\Gluecksrad_Rumpf\Gluecksrad_Rumpf\obj\Debug\Gluecksrad_Rumpf.exe
+D:\Hochschule\C#\Gluecksrad_Rumpf\Gluecksrad_Rumpf\obj\Debug\Gluecksrad_Rumpf.pdb
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\07 Gluecksrad_Rumpf\07 Gluecksrad_Rumpf\Gluecksrad_Rumpf\bin\Debug\Gluecksrad_Rumpf.exe.config
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\07 Gluecksrad_Rumpf\07 Gluecksrad_Rumpf\Gluecksrad_Rumpf\bin\Debug\Gluecksrad_Rumpf.exe
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\07 Gluecksrad_Rumpf\07 Gluecksrad_Rumpf\Gluecksrad_Rumpf\bin\Debug\Gluecksrad_Rumpf.pdb
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\07 Gluecksrad_Rumpf\07 Gluecksrad_Rumpf\Gluecksrad_Rumpf\obj\Debug\Gluecksrad_Rumpf.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\07 Gluecksrad_Rumpf\07 Gluecksrad_Rumpf\Gluecksrad_Rumpf\obj\Debug\Gluecksrad_Rumpf.Form1.resources
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\07 Gluecksrad_Rumpf\07 Gluecksrad_Rumpf\Gluecksrad_Rumpf\obj\Debug\Gluecksrad_Rumpf.Properties.Resources.resources
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\07 Gluecksrad_Rumpf\07 Gluecksrad_Rumpf\Gluecksrad_Rumpf\obj\Debug\Gluecksrad_Rumpf.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\07 Gluecksrad_Rumpf\07 Gluecksrad_Rumpf\Gluecksrad_Rumpf\obj\Debug\Gluecksrad_Rumpf.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\07 Gluecksrad_Rumpf\07 Gluecksrad_Rumpf\Gluecksrad_Rumpf\obj\Debug\Gluecksrad_Rumpf.exe
+C:\Users\danie\OneDrive\Documents\HS-Esslingen\Semester.2\Informatik2\repos\Hs-Esslingen\repos\07 Gluecksrad_Rumpf\07 Gluecksrad_Rumpf\Gluecksrad_Rumpf\obj\Debug\Gluecksrad_Rumpf.pdb

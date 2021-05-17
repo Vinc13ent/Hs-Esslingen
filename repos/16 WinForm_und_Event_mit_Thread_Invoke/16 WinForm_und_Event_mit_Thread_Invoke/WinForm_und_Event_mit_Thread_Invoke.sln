@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm_und_Event_mit_Thread_Invoke", "WinForm_und_Event_mit_Thread_Hilfsklasse\WinForm_und_Event_mit_Thread_Invoke.csproj", "{E5ABC727-3CE2-4A33-9F7B-1FC6457E5BDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5ABC727-3CE2-4A33-9F7B-1FC6457E5BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5ABC727-3CE2-4A33-9F7B-1FC6457E5BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5ABC727-3CE2-4A33-9F7B-1FC6457E5BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5ABC727-3CE2-4A33-9F7B-1FC6457E5BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {790566E2-B047-4A41-9AD8-B87B55843B03}
+	EndGlobalSection
+EndGlobal

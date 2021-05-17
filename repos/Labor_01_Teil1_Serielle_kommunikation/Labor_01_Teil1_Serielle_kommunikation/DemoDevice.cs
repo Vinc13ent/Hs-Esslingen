@@ -22,9 +22,9 @@ namespace Labor_01_Teil1_Serielle_kommunikation
 
         public enum ConnectionStates
         {
-            Connected = 1,
-            Disconnected = 0,
-            Connecting = -1,
+            Connected,
+            Disconnected,
+            Connecting,
         }
 
         private string _SerialNumber;
@@ -109,9 +109,8 @@ namespace Labor_01_Teil1_Serielle_kommunikation
                 Thread readDeviceInfoThread = new Thread(ReadDeviceInfo);
                 readDeviceInfoThread.IsBackground = true;
                 readDeviceInfoThread.Start();
-
             }
-            catch
+            catch (IndexOutOfRangeException)
             { 
                 Console.WriteLine("Verbindung fehlgeschlagen");
                 Disconnect();

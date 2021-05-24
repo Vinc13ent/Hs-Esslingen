@@ -86,7 +86,6 @@ namespace Labor_01_Teil1_Serielle_kommunikation
         SerialPort serialPort = new SerialPort();
 
         public delegate void PropertyChangedHandler(DemoDevice source, string propertyName);
-
         public event PropertyChangedHandler PropertyChanged; 
         private void OnPropertyChanged(string propertyName)
         {

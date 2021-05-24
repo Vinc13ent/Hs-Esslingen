@@ -1,4 +1,6 @@
-﻿namespace Labor_02_StackRechner
+﻿using System.Threading;
+
+namespace Labor_02_StackRechner
 {
     partial class Form1
     {
@@ -64,6 +66,7 @@
             // 
             // textBoxStack1
             // 
+            this.textBoxStack1.CausesValidation = false;
             this.textBoxStack1.Location = new System.Drawing.Point(6, 97);
             this.textBoxStack1.Name = "textBoxStack1";
             this.textBoxStack1.ReadOnly = true;
@@ -74,6 +77,7 @@
             // 
             // textBoxStack2
             // 
+            this.textBoxStack2.CausesValidation = false;
             this.textBoxStack2.Location = new System.Drawing.Point(6, 71);
             this.textBoxStack2.Name = "textBoxStack2";
             this.textBoxStack2.ReadOnly = true;
@@ -84,6 +88,7 @@
             // 
             // textBoxStack3
             // 
+            this.textBoxStack3.CausesValidation = false;
             this.textBoxStack3.Location = new System.Drawing.Point(6, 45);
             this.textBoxStack3.Name = "textBoxStack3";
             this.textBoxStack3.ReadOnly = true;
@@ -94,6 +99,7 @@
             // 
             // textBoxStack4
             // 
+            this.textBoxStack4.CausesValidation = false;
             this.textBoxStack4.Location = new System.Drawing.Point(6, 19);
             this.textBoxStack4.Name = "textBoxStack4";
             this.textBoxStack4.ReadOnly = true;
@@ -106,7 +112,6 @@
             // 
             this.eingabeZahl.Location = new System.Drawing.Point(17, 198);
             this.eingabeZahl.Name = "eingabeZahl";
-            this.eingabeZahl.ReadOnly = true;
             this.eingabeZahl.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.eingabeZahl.Size = new System.Drawing.Size(175, 20);
             this.eingabeZahl.TabIndex = 1;
@@ -120,7 +125,7 @@
             this.buttonTeilen.TabIndex = 2;
             this.buttonTeilen.Text = "/";
             this.buttonTeilen.UseVisualStyleBackColor = true;
-            this.buttonTeilen.Click += new System.EventHandler(this.button1_Click);
+            this.buttonTeilen.Click += new System.EventHandler(this.buttonTeilen_Click);
             // 
             // buttonMultiplizieren
             // 
@@ -204,6 +209,7 @@
             // 
             // radioDezimal
             // 
+            this.radioDezimal.Checked = true;
             this.radioDezimal.Location = new System.Drawing.Point(65, 18);
             this.radioDezimal.Name = "radioDezimal";
             this.radioDezimal.Size = new System.Drawing.Size(64, 24);

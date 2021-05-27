@@ -206,6 +206,7 @@ namespace Labor_02_StackRechner
             this.radioDual.TabStop = true;
             this.radioDual.Text = "Dual";
             this.radioDual.UseVisualStyleBackColor = true;
+            this.radioDual.CheckedChanged += new System.EventHandler(this.radioDual_CheckedChanged);
             // 
             // radioDezimal
             // 
@@ -217,6 +218,7 @@ namespace Labor_02_StackRechner
             this.radioDezimal.TabStop = true;
             this.radioDezimal.Text = "Dezimal";
             this.radioDezimal.UseVisualStyleBackColor = true;
+            this.radioDezimal.CheckedChanged += new System.EventHandler(this.radioDezimal_CheckedChanged);
             // 
             // radioHex
             // 
@@ -227,6 +229,7 @@ namespace Labor_02_StackRechner
             this.radioHex.TabStop = true;
             this.radioHex.Text = "Hex";
             this.radioHex.UseVisualStyleBackColor = true;
+            this.radioHex.CheckedChanged += new System.EventHandler(this.radioHex_CheckedChanged);
             // 
             // Form1
             // 

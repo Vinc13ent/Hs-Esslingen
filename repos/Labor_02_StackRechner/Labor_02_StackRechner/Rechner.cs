@@ -13,7 +13,7 @@ namespace Labor_02_StackRechner
         
         public delegate void StackChangedDelegate(Rechner src);
         public event StackChangedDelegate StackChanged;
-        private void OnStackChanged()
+        public void OnStackChanged()
         {
             if (StackChanged != null)
             {
@@ -132,7 +132,6 @@ namespace Labor_02_StackRechner
         public int stackLength()
         {
             return _operanden.Count;
-            
         }
     }
 }
